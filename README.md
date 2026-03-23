@@ -18,9 +18,9 @@ Caso queria entrar em contato comigo, meu e-mail é filipelndev@gmail.com.
  </div>
 
 <div align="center">
-  <a href="https://github.com/filipelndev">
-  <img height="180em" href="" src="https://github-readme-stats.vercel.app/api?username=filipelndev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelndev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/codewaveoficial">
+  <img height="180em" href="" src="https://github-readme-stats.vercel.app/api?username=codewaveoficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewaveoficial&layout=compact&langs_count=7&theme=tokyonight"/>
   <br>
 </div>
 <div style="display: inline_block" align="center"><br>
